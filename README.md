@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://libozhu03.github.io/TRACE/"><img src="assets/badge-project.svg" alt="Project Page" height="36"></a>
+  <a href="https://labor555.github.io/TRACE/"><img src="assets/badge-project.svg" alt="Project Page" height="36"></a>
   &nbsp;<img src="assets/badge-paper.svg" alt="arXiv — Coming soon" height="36">
   &nbsp;<a href="#release-status"><img src="assets/badge-code.svg" alt="Code — Coming soon" height="36"></a>
 </p>
@@ -89,12 +89,12 @@ TRACE improves perceptual quality and text–video alignment over FreeSwim acros
   <br><sub><b>Figure 2 from the paper.</b> FreeSwim and TRACE at 1080p and 4K; central panels show full frames and outer columns show matched detail crops.</sub>
 </p>
 
-<p align="center"><a href="https://libozhu03.github.io/TRACE/"><b>Explore all comparisons and ablations on the project page →</b></a></p>
+<p align="center"><a href="https://labor555.github.io/TRACE/"><b>Explore all comparisons and ablations on the project page →</b></a></p>
 
 ## Release status
 
 | Project page | Paper on arXiv | Code and models |
 | :---: | :---: | :---: |
-| [Available](https://libozhu03.github.io/TRACE/) | Coming soon | Coming soon |
+| [Available](https://labor555.github.io/TRACE/) | Coming soon | Coming soon |
 
 Code and models will be released in this repository. The arXiv link and citation will be added after submission.
