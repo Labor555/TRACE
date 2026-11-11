@@ -19,6 +19,8 @@
   <a href="https://labor555.github.io/TRACE/"><img src="assets/badge-project.svg" alt="Project Page" height="24"></a>
   &nbsp;<img src="assets/badge-paper.svg" alt="arXiv — Coming soon" height="24">
   &nbsp;<a href="#release-status"><img src="assets/badge-code.svg" alt="Code — Coming soon" height="24"></a>
+  &nbsp;<a href="https://github.com/libozhu03/TRACE/releases/download/paper/main.pdf"><img src="assets/badge-main-pdf.svg" alt="Paper PDF" height="24"></a>
+  &nbsp;<a href="https://github.com/libozhu03/TRACE/releases/download/paper/supp.pdf"><img src="assets/badge-supp-pdf.svg" alt="Supplementary material PDF" height="24"></a>
 </p>
 
 ## 📖 Overview
@@ -64,6 +66,7 @@ TRACE delivers better perceptual quality and text alignment across all three bac
 ## Release status
 
 - [x] Project page
+- [x] [Paper and supplementary material](https://github.com/libozhu03/TRACE/releases/tag/paper)
 - [ ] Paper on arXiv
 - [ ] Code and models
 
