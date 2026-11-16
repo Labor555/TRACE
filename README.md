@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://labor555.github.io/TRACE/"><img src="assets/badge-project.svg" alt="Project Page" height="24"></a>
-  &nbsp;<img src="assets/badge-paper.svg" alt="arXiv — Coming soon" height="24">
+  &nbsp;<a href="https://arxiv.org/abs/2611.15983"><img src="assets/badge-paper.svg" alt="arXiv — 2611.15983" height="24"></a>
   &nbsp;<a href="#release-status"><img src="assets/badge-code.svg" alt="Code — Coming soon" height="24"></a>
   &nbsp;<a href="https://github.com/libozhu03/TRACE/releases/download/paper/main.pdf"><img src="assets/badge-main-pdf.svg" alt="Paper PDF" height="24"></a>
   &nbsp;<a href="https://github.com/libozhu03/TRACE/releases/download/paper/supp.pdf"><img src="assets/badge-supp-pdf.svg" alt="Supplementary material PDF" height="24"></a>
@@ -67,9 +67,19 @@ TRACE delivers better perceptual quality and text alignment across all three bac
 
 - [x] Project page
 - [x] [Paper and supplementary material](https://github.com/libozhu03/TRACE/releases/tag/paper)
-- [ ] Paper on arXiv
+- [x] [Paper on arXiv](https://arxiv.org/abs/2611.15983)
 - [ ] Code and models
 
 ## 📎 Citation
 
-The citation will be added after arXiv submission.
+```bibtex
+@misc{zhu2026trace,
+  title         = {TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation},
+  author        = {Zhu, Libo and Li, Fan and Wang, Zhixin and Wang, Binglu and Dong, Weisheng and Zhang, Yulun},
+  year          = {2026},
+  eprint        = {2611.15983},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2611.15983}
+}
+```

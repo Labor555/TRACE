@@ -1,5 +1,5 @@
-// Add the paper URL after arXiv submission.
+// Public paper and code links.
 window.TRACE_CONFIG = {
-  arxivUrl: "",
+  arxivUrl: "https://arxiv.org/abs/2611.15983",
   codeUrl: "https://github.com/libozhu03/TRACE#release-status"
 };
