@@ -5,22 +5,22 @@
 <h2 align="center">Trajectory Synchronization for Training-Free<br>Resolution Extension in Video Generation</h2>
 
 <p align="center">
-  <a href="https://www.libozhu.com/">Libo Zhu</a><sup>1</sup> &nbsp;·&nbsp; Fan Li<sup>2</sup> &nbsp;·&nbsp; Zhixin Wang<sup>2</sup><br>
-  Binglu Wang<sup>3</sup> &nbsp;·&nbsp; Weisheng Dong<sup>4</sup> &nbsp;·&nbsp; <a href="https://yulunzhang.com/">Yulun Zhang</a><sup>1,*</sup>
+  <a href="https://www.libozhu.com/">Libo Zhu</a><sup>1</sup>  ·  Fan Li<sup>2</sup>  ·  Zhixin Wang<sup>2</sup><br>
+  Binglu Wang<sup>3</sup>  ·  Weisheng Dong<sup>4</sup>  ·  <a href="https://yulunzhang.com/">Yulun Zhang</a><sup>1,*</sup>
 </p>
 
 <p align="center">
-  <sup>1</sup> Shanghai Jiao Tong University &nbsp;&nbsp; <sup>2</sup> Huawei Technologies Ltd.<br>
-  <sup>3</sup> Northwest Polytechnical University &nbsp;&nbsp; <sup>4</sup> Xidian University<br>
+  <sup>1</sup> Shanghai Jiao Tong University    <sup>2</sup> Huawei Technologies Ltd.<br>
+  <sup>3</sup> Northwest Polytechnical University    <sup>4</sup> Xidian University<br>
   <sub>* Corresponding author</sub>
 </p>
 
 <p align="center">
   <a href="https://labor555.github.io/TRACE/"><img src="assets/badge-project.svg" alt="Project Page" height="24"></a>
-  &nbsp;<a href="https://arxiv.org/abs/2611.15983"><img src="assets/badge-paper.svg" alt="arXiv — 2611.15983" height="24"></a>
-  &nbsp;<a href="#release-status"><img src="assets/badge-code.svg" alt="Code — Coming soon" height="24"></a>
-  &nbsp;<a href="https://github.com/libozhu03/TRACE/releases/download/paper/main.pdf"><img src="assets/badge-main-pdf.svg" alt="Paper PDF" height="24"></a>
-  &nbsp;<a href="https://github.com/libozhu03/TRACE/releases/download/paper/supp.pdf"><img src="assets/badge-supp-pdf.svg" alt="Supplementary material PDF" height="24"></a>
+   <a href="https://arxiv.org/abs/2611.15983"><img src="assets/badge-paper.svg" alt="arXiv — 2611.15983" height="24"></a>
+   <a href="#release-status"><img src="assets/badge-code.svg" alt="Code — Coming soon" height="24"></a>
+   <a href="https://github.com/libozhu03/TRACE/releases/download/paper/main.pdf"><img src="assets/badge-main-pdf.svg" alt="Paper PDF" height="24"></a>
+   <a href="https://github.com/libozhu03/TRACE/releases/download/paper/supp.pdf"><img src="assets/badge-supp-pdf.svg" alt="Supplementary material PDF" height="24"></a>
 </p>
 
 ## 📖 Overview
@@ -65,21 +65,18 @@ TRACE delivers better perceptual quality and text alignment across all three bac
 
 ## Release status
 
-- [x] Project page
-- [x] [Paper and supplementary material](https://github.com/libozhu03/TRACE/releases/tag/paper)
-- [x] [Paper on arXiv](https://arxiv.org/abs/2611.15983)
+- [X] Project page
+- [X] [Paper and supplementary material](https://github.com/libozhu03/TRACE/releases/tag/paper)
+- [X] [Paper on arXiv](https://arxiv.org/abs/2611.15983)
 - [ ] Code and models
 
 ## 📎 Citation
 
 ```bibtex
-@misc{zhu2026trace,
-  title         = {TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation},
-  author        = {Zhu, Libo and Li, Fan and Wang, Zhixin and Wang, Binglu and Dong, Weisheng and Zhang, Yulun},
-  year          = {2026},
-  eprint        = {2611.15983},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url           = {https://arxiv.org/abs/2611.15983}
+@article{zhu2026trace,
+  title={TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation},
+  author={Libo Zhu and Fan Li and Zhixin Wang and Binglu Wang and Weisheng Dong and Yulun Zhang},
+  journal={arXiv preprint arXiv:2611.15983},
+  year={2026}
 }
 ```
